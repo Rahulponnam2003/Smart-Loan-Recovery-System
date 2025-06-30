@@ -1,11 +1,11 @@
 # Smart Loan Recovery System
 built a loan recovery system with Machine Learning, using dataset containing borrower profiles, loan details, and repayment histories. This dataset includes critical attributes such as:
 
-**Demographic Information:** Age, employment type, income level, and number of dependents.
-**Loan Details:** Loan amount, tenure, interest rate, and collateral value.
-**Repayment History:** Number of missed payments, days past due, and monthly EMI payments.
-**Collection Efforts:** Collection methods used, number of recovery attempts, and legal actions taken.
-**Loan Recovery Status:** Whether the loan was fully recovered, partially recovered, or remains outstanding.
+1. **Demographic Information:** Age, employment type, income level, and number of dependents.
+2. **Loan Details:** Loan amount, tenure, interest rate, and collateral value.
+3. **Repayment History:** Number of missed payments, days past due, and monthly EMI payments.
+4. **Collection Efforts:** Collection methods used, number of recovery attempts, and legal actions taken.
+5. **Loan Recovery Status:** Whether the loan was fully recovered, partially recovered, or remains outstanding.
 
 **Defined a function that categorizes borrowers into three recovery approaches:**
 
