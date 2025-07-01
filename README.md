@@ -37,6 +37,7 @@ XGBoost:
  * AUC: 0.9911
 
 **--- Conclusion ---**
+
 Based on the AUC score, XGBoost appears to be the better performing algorithm for this task.
 It achieves a higher AUC, indicating a better ability to distinguish between high-risk and non-high-risk loans.
 XGBoost also has a higher F1-score for the 'High Risk' class, suggesting a better balance between precision and recall for identifying high-risk loans.
